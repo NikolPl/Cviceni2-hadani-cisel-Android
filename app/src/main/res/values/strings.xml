@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ukol2</string>
+    <string name="higher">číslo je větší</string>
+    <string name="less">hodnota je menší</string>
+    <string name="input_not_a_number">hodnota není číslo</string>
+    <string name="cisloJe">Hodnota je:</string>
 </resources>

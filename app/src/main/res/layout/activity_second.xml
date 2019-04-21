@@ -7,18 +7,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/text"
+        android:id="@+id/vysledekTextView"
         android:layout_gravity="center"
         />
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/vstup"/>
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="HÁDAT"
-        android:layout_gravity="center"
-        android:id="@+id/tlacitko"/>
+
 
 </LinearLayout>
